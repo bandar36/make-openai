@@ -1,1 +1,13 @@
-{}
+{
+    "id": "aJIxBfjSg",
+    "name": "Make openAI",
+    "product": "livechat",
+    "blocks": {
+        "repository": {
+            "provider": "github",
+            "target": "nextjs",
+            "name": "bandar36/make-openai",
+            "branch": "main"
+        }
+    }
+}
